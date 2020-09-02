@@ -1,6 +1,6 @@
 # Glenn-Quagmire-Bot
 A personal note keeping telegram bot <br>
-Find the bot on _[this link](https://t.me/giggity_giggity_gooo)_ <br>
+Find the bot on _[this link](https://t.me/giggity_giggity_bot)_ <br>
 
 ### Working
 * The bot uses offical _[telegram API](https://github.com/python-telegram-bot/python-telegram-bot)_ <br>
