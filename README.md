@@ -18,4 +18,4 @@ _Looks like there's an issue on latest beta release, so reminder feature can't b
 The official issue can be found [here](https://github.com/python-telegram-bot/python-telegram-bot/issues/1366)_ <br>
 
 #### Name Inspiration
-The bot name is inspired from _Glenn Quagmire's_ puchline (Giggity Giggity Gooo) from the _Family Guy_
+The bot name is inspired from _[Glenn Quagmire's](https://en.wikipedia.org/wiki/Glenn_Quagmire)_ puchline (Giggity Giggity Gooo) from the _Family Guy_
