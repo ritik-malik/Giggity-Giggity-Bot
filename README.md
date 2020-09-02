@@ -4,9 +4,9 @@ Find the bot on _[this link](https://t.me/giggity_giggity_gooo)_ <br>
 
 ### Working
 * The bot uses offical _[telegram API](https://github.com/python-telegram-bot/python-telegram-bot)_ <br>
-* It is currenlty hosted on Heroku
-* It creates a folder with the name of USER_ID
-* All the notes of a particular user are stored in this folder
+* Currenlty hosted on Heroku
+* Creates a folder with the name of user's telegram _USER\_ID_
+* All the notes of that particular user are stored in this folder
 * Data in the notes is in the form of dict, pickle is used to store & load the binaries
 
 
